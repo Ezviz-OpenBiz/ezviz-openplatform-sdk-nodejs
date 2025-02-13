@@ -1,0 +1,23 @@
+{
+  "name": "@ezviz/openplatform-sdk",
+  "version": "1.0.0-beta.1",
+  "description": "萤石开放平台 Node.js SDK",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "prepublishOnly": "node prepublish.js"
+  },
+  "author": "Ezviz-OpenBiz",
+  "license": "Apache-2.0",
+  "files": [
+    "dist",
+    "main.js",
+    "README.md"
+  ],
+  "devDependencies": {
+    "fs-extra": "^11.3.0",
+    "gulp": "^5.0.0",
+    "gulp-javascript-obfuscator": "^1.1.6",
+    "gulp-uglify": "^3.0.2"
+  }
+}
