@@ -4,8 +4,6 @@
   "description": "萤石开放平台 Node.js SDK",
   "main": "main.js",
   "scripts": {
-    "test": "node test.js",
-    "prepublishOnly": "node prepublish.js"
   },
   "author": "Ezviz-OpenBiz",
   "license": "Apache-2.0",
