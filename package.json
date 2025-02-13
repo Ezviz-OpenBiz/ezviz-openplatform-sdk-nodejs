@@ -12,6 +12,9 @@
     "main.js",
     "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "fs-extra": "^11.3.0",
     "gulp": "^5.0.0",
